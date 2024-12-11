@@ -2,6 +2,7 @@
 Make sure C++ is installed and an adequate compiler as well.
 
 https://code.visualstudio.com/docs/cpp/config-mingw
+
 Follow the link here to install C++ for your device and run on VS Code if needed.
 
 ## Running the code: ##
